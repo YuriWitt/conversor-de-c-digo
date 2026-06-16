@@ -1,0 +1,6 @@
+{
+  "name": "Conversor de Código",
+  "description": "Um aplicativo completo para converter códigos de uma linguagem de programação para outra, com explicação detalhada das diferenças de sintaxe utilizando a API do Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
